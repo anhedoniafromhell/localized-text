@@ -534,7 +534,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   1257, 	"Barreira de Tanques"
   1261, 	"Muro - Pedra"
   1262, 	"Tempestade"
-  1263, 	"Testar Espadachin da \xC9poca 5"
+  1263, 	"Testar Espadachim da \xC9poca 5"
 }
 
 STRINGTABLE
@@ -608,7 +608,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   1314, 	"Quartel-General Espi\xE3o"
   1315, 	"Triplano Sopwith"
   1316, 	"Golfinho"
-  1317, 	"Franco-atirador"
+  1317, 	"Franco-Atirador"
   1318, 	"Atirador de Elite"
   1319, 	"Baterista"
   1320, 	"Forte"
@@ -631,7 +631,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   1332, 	"Forte - Nano"
   1333, 	"Laborat\xF3rio Cibern\xE9tico"
   1334, 	"Ca\xE7a F-15"
-  1335, 	"Lan\xE7a Granada"
+  1335, 	"Lan\xE7a Granadas"
   1336, 	"Cidad\xE3o"
   1337, 	"Tanque Flutuante"
   1338, 	"Assentamento de Jogador \xDAnico"
@@ -736,7 +736,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   2073, 	"Guerreiro Inca"
   2074, 	"Pagode"
   2075, 	"Casa - Asi\xE1tica"
-  2076, 	"Arcabuz Ashikagu"
+  2076, 	"Arcabuzeiro Ashikagu"
   2077, 	"Unidade de Comando"
   2078, 	"Torre de Londres"
   2079, 	"Torre Eiffel"
@@ -781,7 +781,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   2108, 	"Compania da Cavalaria"
   2109, 	"Oficial Manto Negro"
   2110, 	"Unidade de Teste"
-  2111, 	"Sampson"
+  2111, 	"Sans\xE3o"
 }
 
 STRINGTABLE
@@ -797,10 +797,10 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 STRINGTABLE
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 {
-  3000, 	"Crusador - Dardo"
+  3000, 	"Cruzador - Dardo"
   3001, 	"Marcador Naval"
-  3002, 	"Barco de Pesca - Traineiro"
-  3003, 	"Crusador - Sagit\xE1rio"
+  3002, 	"Barco de Pesca - Traineira"
+  3003, 	"Cruzador - Sagit\xE1rio"
 }
 
 STRINGTABLE
@@ -832,17 +832,17 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   4006, 	"Algas 3"
   4007, 	"Typhas 2"
   4012, 	"Sarg\xE3o da Ac\xE1dia"
-  4013, 	"Gilgamesh"
+  4013, 	"Gilgam\xE9s"
   4015, 	"Qu\xE9ops"
 }
 
 STRINGTABLE
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 {
-  4018, 	"Hannibal"
+  4018, 	"An\xEDbal"
   4019, 	"Alexandre, o Grande"
   4021, 	"Hamurabi"
-  4024, 	"Julio C\xE9sar"
+  4024, 	"J\xFAlio C\xE9sar"
   4025, 	"Carlos Magno"
   4027, 	"Augusto C\xE9sar"
   4030, 	"William, o Conquistador"
@@ -855,7 +855,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   4033, 	"Rei Arthur"
   4036, 	"Henrique V"
   4037, 	"Conquistador 7b"
-  4039, 	"Isabela de Castile"
+  4039, 	"Isabel de Castela"
   4042, 	"Gustavo Adolfo"
   4043, 	"Oliver Cromwell"
   4045, 	"Isabel I"
@@ -934,7 +934,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   4507, 	"Andaime"
   4508, 	"Insetos Daninhos"
   4509, 	"Moscas"
-  4510, 	"Primavera Quente"
+  4510, 	"Nascentes Quentes"
   4511, 	"Est\xE1tua - Nike"
 }
 
@@ -1009,7 +1009,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   4562, 	"Toco de \xC1rvore 3"
   4563, 	"Toco de \xC1rvore 4"
   4564, 	"Samambaias"
-  4565, 	"Est\xE1tua - Buddha"
+  4565, 	"Est\xE1tua - Buda"
   4566, 	"Estrada - Moderna"
   4567, 	"Rocha 4"
   4568, 	"Rocha 5"
@@ -1123,7 +1123,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   5104, 	"\xC1rvore - Grande Palmeira"
   5105, 	"\xC1rvore - Bordo"
   5106, 	"Fosso de Petr\xF3leo"
-  5107, 	"Telha Obstru\xEDda"
+  5107, 	"Obstruç\xE3o"
   5108, 	"Pr\xE9via do Capit\xF3lio (invis\xEDvel)"
 }
 
@@ -1136,14 +1136,14 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   6003, 	"Descarregar"
   6004, 	"Parar"
   6005, 	"Reparar"
-  6006, 	"Ponto de Destino do Bombardeiro At\xF4mico Programado"
+  6006, 	"Ponto de Destino de Bombardeiros At\xF4micos"
   6007, 	"Atacar \xC1rea"
   6008, 	"Colocar Ponto de Destino"
   6009, 	"Erguer Maravilha"
-  6010, 	"Colocar Ponto de Destino do Ca\xE7a"
-  6011, 	"Colocar Ponto de Destino do Bombardeiro/Helic\xF3ptero"
+  6010, 	"Colocar Ponto de Destino de Ca\xE7as"
+  6011, 	"Colocar Ponto de Destino de Bombardeiros/Helic\xF3pteros"
   6012, 	"Gritos"
-  6013, 	"Colocar Ponto de Destino do Bombardeiro At\xF4mico"
+  6013, 	"Colocar Ponto de Destino de Bombardeiros At\xF4micos"
   6014, 	"Ponto de Destino Global Programado"
   6015, 	"Ponto de Destino de Ca\xE7a Programado"
 }
@@ -1151,13 +1151,13 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 STRINGTABLE
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 {
-  6016, 	"Ponto de Destino do Bombardeiro Programado"
+  6016, 	"Ponto de Destino de Bombardeiros Programados"
   6017, 	"Sentinela"
   6018, 	"Construir"
-  6019, 	"Patrulha"
+  6019, 	"Patrulhar"
   6020, 	"Replantar Fazendas"
   6021, 	"Converter"
-  6022, 	"Ponto de Destino do Transporte"
+  6022, 	"Ponto de Destino de Transportes"
   6023, 	"Cancelar"
   6024, 	"Explorar"
   6025, 	"Povoar"
@@ -1219,8 +1219,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
   7025, 	"Baixa"
   7026, 	"Desligado"
   7027, 	"Volume da M\xFAsica"
-  7028, 	"Min"
-  7029, 	"Max"
+  7028, 	"Min."
+  7029, 	"Max."
   7030, 	"Configura\xE7\xF5es dos Efeitos Sonoros"
   7031, 	"Volume do Som"
   7032, 	"N\xFAmero m\xE1ximo de Sons"
